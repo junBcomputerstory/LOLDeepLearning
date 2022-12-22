@@ -1,0 +1,1429 @@
+{
+	"metadata": {
+		"dataVersion": "2",
+		"matchId": "KR_6031673485",
+		"participants": [
+			"5ItX4Z28Iip_TnJu5kqH4uQ64ln4l7RN7NO802bJ8W6Np8gfmgAsvZyh9aLvikiiCFY_VQoXh57zlg",
+			"YyCc1A9pZqr-7DHO-ciUnMtO1-hNZglH34DQ-_dzpnqkiO4b0tvnUsqbk3HIUe1Bx9gwFXT7_RrNAQ",
+			"r4ZMVi94d51y1NSbFyW0s4u-eM8-chXUnqqWExAx-96F6nK7cMTM98iya3ZJKBcXZ29gfd0UHEf46w",
+			"UGLs3VDONX0Yhx1aT1nFgk5XN5SD3UpVyjib9_Rg6la73U_oKmTzyNdF_ZPZORA0urX7tCVqEx0IAQ",
+			"ci7WfRGpAF7bR-fUtrCbDaQk4e6rncCtj2_lDePxjpSFiLLbwAPXD129fHRxDkmt1n-NMSXURre55A",
+			"-GB9GvD2cypGPjB20d9bKvHFMgSLqP3LjKqxDPhwwQR27M5xAl8Z218NbAlTVePPiPNsk5LPDujiIg",
+			"hLCVnJJBdjQguXqxj4dAtvO34IDv6LJAvHafL3aGS15cyHHHQAj9VBTkSVBqqEX_0RwJ5qR22SeaKQ",
+			"CbDvduN25BtWsu82kRQtArMAVQ070EWnhpsc9IXsROat4waDtMrvJZ1rjdA8smzPOYtPkBryHBw0Gg",
+			"GD39TYvKQeqm6vEmFox8VlsaF6CbhXAM0q6ml7yxpgcypjSvucdwPfl9W1MkQSfGvEDZmbE_SInb7w",
+			"8LSUDMTO0gpTCyQEscn3tpGnVsSufuV61Nac4wyeQacsRAwPcRhPSmALB1sd7ijpbRJH8cE2ktcYbw"
+		],
+		"puuid_to_part": {
+			"5ItX4Z28Iip_TnJu5kqH4uQ64ln4l7RN7NO802bJ8W6Np8gfmgAsvZyh9aLvikiiCFY_VQoXh57zlg": "1",
+			"YyCc1A9pZqr-7DHO-ciUnMtO1-hNZglH34DQ-_dzpnqkiO4b0tvnUsqbk3HIUe1Bx9gwFXT7_RrNAQ": "2",
+			"r4ZMVi94d51y1NSbFyW0s4u-eM8-chXUnqqWExAx-96F6nK7cMTM98iya3ZJKBcXZ29gfd0UHEf46w": "3",
+			"UGLs3VDONX0Yhx1aT1nFgk5XN5SD3UpVyjib9_Rg6la73U_oKmTzyNdF_ZPZORA0urX7tCVqEx0IAQ": "4",
+			"ci7WfRGpAF7bR-fUtrCbDaQk4e6rncCtj2_lDePxjpSFiLLbwAPXD129fHRxDkmt1n-NMSXURre55A": "5",
+			"-GB9GvD2cypGPjB20d9bKvHFMgSLqP3LjKqxDPhwwQR27M5xAl8Z218NbAlTVePPiPNsk5LPDujiIg": "6",
+			"hLCVnJJBdjQguXqxj4dAtvO34IDv6LJAvHafL3aGS15cyHHHQAj9VBTkSVBqqEX_0RwJ5qR22SeaKQ": "7",
+			"CbDvduN25BtWsu82kRQtArMAVQ070EWnhpsc9IXsROat4waDtMrvJZ1rjdA8smzPOYtPkBryHBw0Gg": "8",
+			"GD39TYvKQeqm6vEmFox8VlsaF6CbhXAM0q6ml7yxpgcypjSvucdwPfl9W1MkQSfGvEDZmbE_SInb7w": "9",
+			"8LSUDMTO0gpTCyQEscn3tpGnVsSufuV61Nac4wyeQacsRAwPcRhPSmALB1sd7ijpbRJH8cE2ktcYbw": "10"
+		},
+		"champions": {
+			"1": {
+				"champion": 122,
+				"position": "TOP",
+				"teamId": 100,
+				"win": false,
+				"perk": [
+					178,
+					180,
+					184,
+					185,
+					208,
+					212
+				]
+			},
+			"2": {
+				"champion": 99,
+				"position": "JUNGLE",
+				"teamId": 100,
+				"win": false,
+				"perk": [
+					191,
+					193,
+					196,
+					198,
+					180,
+					185
+				]
+			},
+			"3": {
+				"champion": 125,
+				"position": "MIDDLE",
+				"teamId": 100,
+				"win": false,
+				"perk": [
+					178,
+					181,
+					184,
+					185,
+					217,
+					219
+				]
+			},
+			"4": {
+				"champion": 24,
+				"position": "BOTTOM",
+				"teamId": 100,
+				"win": false,
+				"perk": [
+					189,
+					194,
+					197,
+					198,
+					167,
+					172
+				]
+			},
+			"5": {
+				"champion": 54,
+				"position": "UTILITY",
+				"teamId": 100,
+				"win": false,
+				"perk": [
+					213,
+					217,
+					221,
+					222,
+					194,
+					198
+				]
+			},
+			"6": {
+				"champion": 36,
+				"position": "TOP",
+				"teamId": 200,
+				"win": true,
+				"perk": [
+					191,
+					193,
+					195,
+					200,
+					209,
+					204
+				]
+			},
+			"7": {
+				"champion": 61,
+				"position": "JUNGLE",
+				"teamId": 200,
+				"win": true,
+				"perk": [
+					188,
+					193,
+					195,
+					200,
+					171,
+					172
+				]
+			},
+			"8": {
+				"champion": 145,
+				"position": "MIDDLE",
+				"teamId": 200,
+				"win": true,
+				"perk": [
+					215,
+					218,
+					219,
+					224,
+					183,
+					185
+				]
+			},
+			"9": {
+				"champion": 157,
+				"position": "BOTTOM",
+				"teamId": 200,
+				"win": true,
+				"perk": [
+					189,
+					193,
+					195,
+					198,
+					207,
+					210
+				]
+			},
+			"10": {
+				"champion": 71,
+				"position": "UTILITY",
+				"teamId": 200,
+				"win": true,
+				"perk": [
+					203,
+					206,
+					209,
+					212,
+					184,
+					185
+				]
+			}
+		}
+	},
+	"info": {
+		"frames": [
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"2": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"3": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"4": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"5": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"6": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"7": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"8": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"9": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					},
+					"10": {
+						"currentGold": 500,
+						"totalGold": 500,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"2": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"3": {
+						"currentGold": 7,
+						"totalGold": 507,
+						"items": []
+					},
+					"4": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"5": {
+						"currentGold": 40,
+						"totalGold": 540,
+						"items": []
+					},
+					"6": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"7": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"8": {
+						"currentGold": 0,
+						"totalGold": 500,
+						"items": []
+					},
+					"9": {
+						"currentGold": 10,
+						"totalGold": 510,
+						"items": []
+					},
+					"10": {
+						"currentGold": 10,
+						"totalGold": 510,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 89,
+						"totalGold": 589,
+						"items": []
+					},
+					"2": {
+						"currentGold": 170,
+						"totalGold": 670,
+						"items": []
+					},
+					"3": {
+						"currentGold": 29,
+						"totalGold": 529,
+						"items": []
+					},
+					"4": {
+						"currentGold": 83,
+						"totalGold": 583,
+						"items": []
+					},
+					"5": {
+						"currentGold": 58,
+						"totalGold": 633,
+						"items": []
+					},
+					"6": {
+						"currentGold": 56,
+						"totalGold": 556,
+						"items": []
+					},
+					"7": {
+						"currentGold": 311,
+						"totalGold": 811,
+						"items": []
+					},
+					"8": {
+						"currentGold": 126,
+						"totalGold": 626,
+						"items": []
+					},
+					"9": {
+						"currentGold": 528,
+						"totalGold": 1028,
+						"items": []
+					},
+					"10": {
+						"currentGold": 153,
+						"totalGold": 653,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 372,
+						"totalGold": 872,
+						"items": []
+					},
+					"2": {
+						"currentGold": 866,
+						"totalGold": 1366,
+						"items": []
+					},
+					"3": {
+						"currentGold": 493,
+						"totalGold": 1003,
+						"items": []
+					},
+					"4": {
+						"currentGold": 475,
+						"totalGold": 975,
+						"items": []
+					},
+					"5": {
+						"currentGold": 292,
+						"totalGold": 867,
+						"items": []
+					},
+					"6": {
+						"currentGold": 476,
+						"totalGold": 976,
+						"items": []
+					},
+					"7": {
+						"currentGold": 193,
+						"totalGold": 1118,
+						"items": []
+					},
+					"8": {
+						"currentGold": 32,
+						"totalGold": 832,
+						"items": []
+					},
+					"9": {
+						"currentGold": 825,
+						"totalGold": 1325,
+						"items": []
+					},
+					"10": {
+						"currentGold": 407,
+						"totalGold": 907,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 714,
+						"totalGold": 1214,
+						"items": []
+					},
+					"2": {
+						"currentGold": 1089,
+						"totalGold": 1589,
+						"items": []
+					},
+					"3": {
+						"currentGold": 246,
+						"totalGold": 1181,
+						"items": []
+					},
+					"4": {
+						"currentGold": 794,
+						"totalGold": 1294,
+						"items": []
+					},
+					"5": {
+						"currentGold": 567,
+						"totalGold": 1142,
+						"items": []
+					},
+					"6": {
+						"currentGold": 690,
+						"totalGold": 1190,
+						"items": []
+					},
+					"7": {
+						"currentGold": 491,
+						"totalGold": 1416,
+						"items": []
+					},
+					"8": {
+						"currentGold": 365,
+						"totalGold": 1165,
+						"items": []
+					},
+					"9": {
+						"currentGold": 1162,
+						"totalGold": 1662,
+						"items": []
+					},
+					"10": {
+						"currentGold": 562,
+						"totalGold": 1062,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 1121,
+						"totalGold": 1621,
+						"items": []
+					},
+					"2": {
+						"currentGold": 1483,
+						"totalGold": 1983,
+						"items": []
+					},
+					"3": {
+						"currentGold": 620,
+						"totalGold": 1565,
+						"items": []
+					},
+					"4": {
+						"currentGold": 1946,
+						"totalGold": 2446,
+						"items": []
+					},
+					"5": {
+						"currentGold": 966,
+						"totalGold": 1541,
+						"items": []
+					},
+					"6": {
+						"currentGold": 1092,
+						"totalGold": 1592,
+						"items": []
+					},
+					"7": {
+						"currentGold": 790,
+						"totalGold": 1715,
+						"items": []
+					},
+					"8": {
+						"currentGold": 736,
+						"totalGold": 1546,
+						"items": []
+					},
+					"9": {
+						"currentGold": 1298,
+						"totalGold": 1798,
+						"items": []
+					},
+					"10": {
+						"currentGold": 251,
+						"totalGold": 1276,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 293,
+						"totalGold": 1813,
+						"items": []
+					},
+					"2": {
+						"currentGold": 176,
+						"totalGold": 2201,
+						"items": []
+					},
+					"3": {
+						"currentGold": 1145,
+						"totalGold": 2090,
+						"items": []
+					},
+					"4": {
+						"currentGold": 193,
+						"totalGold": 3193,
+						"items": []
+					},
+					"5": {
+						"currentGold": 265,
+						"totalGold": 1940,
+						"items": []
+					},
+					"6": {
+						"currentGold": 194,
+						"totalGold": 1844,
+						"items": []
+					},
+					"7": {
+						"currentGold": 1643,
+						"totalGold": 2568,
+						"items": []
+					},
+					"8": {
+						"currentGold": 1097,
+						"totalGold": 1917,
+						"items": []
+					},
+					"9": {
+						"currentGold": 258,
+						"totalGold": 2058,
+						"items": []
+					},
+					"10": {
+						"currentGold": 576,
+						"totalGold": 1676,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 710,
+						"totalGold": 2230,
+						"items": []
+					},
+					"2": {
+						"currentGold": 514,
+						"totalGold": 2539,
+						"items": [
+							75
+						]
+					},
+					"3": {
+						"currentGold": 230,
+						"totalGold": 2276,
+						"items": []
+					},
+					"4": {
+						"currentGold": 528,
+						"totalGold": 3528,
+						"items": [
+							75
+						]
+					},
+					"5": {
+						"currentGold": 466,
+						"totalGold": 2141,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 372,
+						"totalGold": 2022,
+						"items": [
+							63
+						]
+					},
+					"7": {
+						"currentGold": 240,
+						"totalGold": 2790,
+						"items": []
+					},
+					"8": {
+						"currentGold": 302,
+						"totalGold": 2207,
+						"items": []
+					},
+					"9": {
+						"currentGold": 508,
+						"totalGold": 2308,
+						"items": [
+							138
+						]
+					},
+					"10": {
+						"currentGold": 805,
+						"totalGold": 1905,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 1082,
+						"totalGold": 2602,
+						"items": []
+					},
+					"2": {
+						"currentGold": 297,
+						"totalGold": 3072,
+						"items": [
+							75
+						]
+					},
+					"3": {
+						"currentGold": 372,
+						"totalGold": 2417,
+						"items": [
+							21
+						]
+					},
+					"4": {
+						"currentGold": 39,
+						"totalGold": 4039,
+						"items": [
+							75
+						]
+					},
+					"5": {
+						"currentGold": 126,
+						"totalGold": 2376,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 571,
+						"totalGold": 2221,
+						"items": [
+							63
+						]
+					},
+					"7": {
+						"currentGold": 1316,
+						"totalGold": 3866,
+						"items": [
+							138
+						]
+					},
+					"8": {
+						"currentGold": 1080,
+						"totalGold": 2995,
+						"items": [
+							87
+						]
+					},
+					"9": {
+						"currentGold": 407,
+						"totalGold": 2507,
+						"items": [
+							138
+						]
+					},
+					"10": {
+						"currentGold": 100,
+						"totalGold": 2535,
+						"items": []
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 1316,
+						"totalGold": 2836,
+						"items": []
+					},
+					"2": {
+						"currentGold": 562,
+						"totalGold": 3337,
+						"items": [
+							75,
+							74
+						]
+					},
+					"3": {
+						"currentGold": 180,
+						"totalGold": 3105,
+						"items": [
+							21
+						]
+					},
+					"4": {
+						"currentGold": 359,
+						"totalGold": 4359,
+						"items": [
+							75,
+							74
+						]
+					},
+					"5": {
+						"currentGold": 491,
+						"totalGold": 2741,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 841,
+						"totalGold": 2491,
+						"items": [
+							63
+						]
+					},
+					"7": {
+						"currentGold": 304,
+						"totalGold": 4354,
+						"items": [
+							138
+						]
+					},
+					"8": {
+						"currentGold": 413,
+						"totalGold": 3623,
+						"items": [
+							87
+						]
+					},
+					"9": {
+						"currentGold": 549,
+						"totalGold": 2649,
+						"items": [
+							138
+						]
+					},
+					"10": {
+						"currentGold": 236,
+						"totalGold": 2746,
+						"items": [
+							87
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 0,
+						"totalGold": 3390,
+						"items": []
+					},
+					"2": {
+						"currentGold": 1199,
+						"totalGold": 3974,
+						"items": [
+							75,
+							74
+						]
+					},
+					"3": {
+						"currentGold": 89,
+						"totalGold": 3444,
+						"items": [
+							21
+						]
+					},
+					"4": {
+						"currentGold": 145,
+						"totalGold": 4545,
+						"items": [
+							75,
+							74
+						]
+					},
+					"5": {
+						"currentGold": 666,
+						"totalGold": 3426,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 163,
+						"totalGold": 2613,
+						"items": [
+							63
+						]
+					},
+					"7": {
+						"currentGold": 1719,
+						"totalGold": 5769,
+						"items": [
+							140
+						]
+					},
+					"8": {
+						"currentGold": 745,
+						"totalGold": 3955,
+						"items": [
+							87,
+							1
+						]
+					},
+					"9": {
+						"currentGold": 941,
+						"totalGold": 3041,
+						"items": [
+							138
+						]
+					},
+					"10": {
+						"currentGold": 721,
+						"totalGold": 3231,
+						"items": [
+							87
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 342,
+						"totalGold": 3732,
+						"items": [
+							134
+						]
+					},
+					"2": {
+						"currentGold": 192,
+						"totalGold": 4217,
+						"items": [
+							75,
+							74
+						]
+					},
+					"3": {
+						"currentGold": 358,
+						"totalGold": 3713,
+						"items": [
+							21,
+							103
+						]
+					},
+					"4": {
+						"currentGold": 187,
+						"totalGold": 5237,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 1301,
+						"totalGold": 4061,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 590,
+						"totalGold": 3040,
+						"items": [
+							63,
+							39
+						]
+					},
+					"7": {
+						"currentGold": 891,
+						"totalGold": 6691,
+						"items": [
+							140
+						]
+					},
+					"8": {
+						"currentGold": 1247,
+						"totalGold": 4467,
+						"items": [
+							87,
+							1
+						]
+					},
+					"9": {
+						"currentGold": 178,
+						"totalGold": 3178,
+						"items": [
+							138
+						]
+					},
+					"10": {
+						"currentGold": 463,
+						"totalGold": 3713,
+						"items": [
+							87
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 1276,
+						"totalGold": 4666,
+						"items": [
+							134
+						]
+					},
+					"2": {
+						"currentGold": 901,
+						"totalGold": 4936,
+						"items": [
+							147
+						]
+					},
+					"3": {
+						"currentGold": 646,
+						"totalGold": 4001,
+						"items": [
+							21,
+							103
+						]
+					},
+					"4": {
+						"currentGold": 309,
+						"totalGold": 5359,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 582,
+						"totalGold": 4282,
+						"items": [
+							21
+						]
+					},
+					"6": {
+						"currentGold": 112,
+						"totalGold": 3212,
+						"items": [
+							63,
+							39
+						]
+					},
+					"7": {
+						"currentGold": 2617,
+						"totalGold": 8417,
+						"items": [
+							140,
+							33
+						]
+					},
+					"8": {
+						"currentGold": 1676,
+						"totalGold": 4906,
+						"items": [
+							87,
+							1
+						]
+					},
+					"9": {
+						"currentGold": 1335,
+						"totalGold": 4335,
+						"items": [
+							138,
+							6
+						]
+					},
+					"10": {
+						"currentGold": 1208,
+						"totalGold": 4458,
+						"items": [
+							87,
+							119
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 196,
+						"totalGold": 5636,
+						"items": [
+							134
+						]
+					},
+					"2": {
+						"currentGold": 119,
+						"totalGold": 5379,
+						"items": [
+							147
+						]
+					},
+					"3": {
+						"currentGold": 597,
+						"totalGold": 4352,
+						"items": [
+							21,
+							103
+						]
+					},
+					"4": {
+						"currentGold": 934,
+						"totalGold": 5984,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 902,
+						"totalGold": 4602,
+						"items": [
+							21,
+							103
+						]
+					},
+					"6": {
+						"currentGold": 604,
+						"totalGold": 3704,
+						"items": [
+							63,
+							39
+						]
+					},
+					"7": {
+						"currentGold": 354,
+						"totalGold": 8754,
+						"items": [
+							140,
+							33
+						]
+					},
+					"8": {
+						"currentGold": 83,
+						"totalGold": 5628,
+						"items": [
+							87,
+							1
+						]
+					},
+					"9": {
+						"currentGold": 285,
+						"totalGold": 4560,
+						"items": [
+							138,
+							6
+						]
+					},
+					"10": {
+						"currentGold": 164,
+						"totalGold": 4714,
+						"items": [
+							87,
+							119
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 708,
+						"totalGold": 6148,
+						"items": [
+							134,
+							21,
+							60
+						]
+					},
+					"2": {
+						"currentGold": 336,
+						"totalGold": 5596,
+						"items": [
+							147,
+							33
+						]
+					},
+					"3": {
+						"currentGold": 945,
+						"totalGold": 4700,
+						"items": [
+							21,
+							103
+						]
+					},
+					"4": {
+						"currentGold": 1302,
+						"totalGold": 6362,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 1522,
+						"totalGold": 5222,
+						"items": [
+							21,
+							103
+						]
+					},
+					"6": {
+						"currentGold": 1002,
+						"totalGold": 4102,
+						"items": [
+							63,
+							39
+						]
+					},
+					"7": {
+						"currentGold": 156,
+						"totalGold": 8906,
+						"items": [
+							140,
+							33,
+							53
+						]
+					},
+					"8": {
+						"currentGold": 791,
+						"totalGold": 6336,
+						"items": [
+							87,
+							82
+						]
+					},
+					"9": {
+						"currentGold": 663,
+						"totalGold": 4948,
+						"items": [
+							141
+						]
+					},
+					"10": {
+						"currentGold": 564,
+						"totalGold": 5114,
+						"items": [
+							87,
+							10
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 571,
+						"totalGold": 6661,
+						"items": [
+							134,
+							21,
+							60
+						]
+					},
+					"2": {
+						"currentGold": 109,
+						"totalGold": 5769,
+						"items": [
+							147,
+							33
+						]
+					},
+					"3": {
+						"currentGold": 210,
+						"totalGold": 5065,
+						"items": [
+							21,
+							103
+						]
+					},
+					"4": {
+						"currentGold": 1743,
+						"totalGold": 6803,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 13,
+						"totalGold": 5413,
+						"items": [
+							21,
+							103
+						]
+					},
+					"6": {
+						"currentGold": 304,
+						"totalGold": 4504,
+						"items": [
+							63,
+							39
+						]
+					},
+					"7": {
+						"currentGold": 977,
+						"totalGold": 9727,
+						"items": [
+							140,
+							33,
+							53
+						]
+					},
+					"8": {
+						"currentGold": 1574,
+						"totalGold": 7119,
+						"items": [
+							87,
+							82
+						]
+					},
+					"9": {
+						"currentGold": 1294,
+						"totalGold": 5579,
+						"items": [
+							141
+						]
+					},
+					"10": {
+						"currentGold": 1010,
+						"totalGold": 5560,
+						"items": [
+							87,
+							10
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 921,
+						"totalGold": 7011,
+						"items": [
+							134,
+							21,
+							60,
+							11
+						]
+					},
+					"2": {
+						"currentGold": 251,
+						"totalGold": 5986,
+						"items": [
+							147,
+							33,
+							75
+						]
+					},
+					"3": {
+						"currentGold": 8,
+						"totalGold": 5263,
+						"items": [
+							21,
+							121
+						]
+					},
+					"4": {
+						"currentGold": 347,
+						"totalGold": 8457,
+						"items": [
+							75,
+							99
+						]
+					},
+					"5": {
+						"currentGold": 153,
+						"totalGold": 5553,
+						"items": [
+							21,
+							133
+						]
+					},
+					"6": {
+						"currentGold": 80,
+						"totalGold": 5030,
+						"items": [
+							63,
+							39,
+							123
+						]
+					},
+					"7": {
+						"currentGold": 2443,
+						"totalGold": 11193,
+						"items": [
+							140,
+							33,
+							53
+						]
+					},
+					"8": {
+						"currentGold": 321,
+						"totalGold": 7406,
+						"items": [
+							87,
+							82
+						]
+					},
+					"9": {
+						"currentGold": 324,
+						"totalGold": 5959,
+						"items": [
+							141
+						]
+					},
+					"10": {
+						"currentGold": 654,
+						"totalGold": 6004,
+						"items": [
+							87,
+							10
+						]
+					}
+				}
+			},
+			{
+				"participantFrames": {
+					"1": {
+						"currentGold": 1058,
+						"totalGold": 7148,
+						"items": [
+							134,
+							21,
+							60,
+							11
+						]
+					},
+					"2": {
+						"currentGold": 284,
+						"totalGold": 6019,
+						"items": [
+							147,
+							33,
+							75
+						]
+					},
+					"3": {
+						"currentGold": 40,
+						"totalGold": 5295,
+						"items": [
+							21,
+							121
+						]
+					},
+					"4": {
+						"currentGold": 80,
+						"totalGold": 8490,
+						"items": [
+							99,
+							146,
+							18
+						]
+					},
+					"5": {
+						"currentGold": 191,
+						"totalGold": 5591,
+						"items": [
+							21,
+							133
+						]
+					},
+					"6": {
+						"currentGold": 113,
+						"totalGold": 5063,
+						"items": [
+							63,
+							130
+						]
+					},
+					"7": {
+						"currentGold": 2475,
+						"totalGold": 11225,
+						"items": [
+							140,
+							33,
+							53
+						]
+					},
+					"8": {
+						"currentGold": 353,
+						"totalGold": 7438,
+						"items": [
+							87,
+							82,
+							81,
+							8
+						]
+					},
+					"9": {
+						"currentGold": 282,
+						"totalGold": 5992,
+						"items": [
+							141,
+							51
+						]
+					},
+					"10": {
+						"currentGold": 166,
+						"totalGold": 6041,
+						"items": [
+							87,
+							10,
+							66
+						]
+					}
+				}
+			}
+		]
+	}
+}
