@@ -4,4 +4,9 @@
 <hr>
 <h3> 사용 딥러닝 알고리즘</h3>
   <strong>-RNN
+  <br>
+  <strong>-LSTM
+     <br>
+  <strong>-GRU
+               
   
